@@ -519,7 +519,7 @@ table th {
 .Sleep p:first-of-type,
 .Chores p:first-of-type,
 .Work p:first-of-type,
-.friends p:first-of-type {
+.Friends p:first-of-type {
   font-size: 1.2rem;
   padding-bottom: 0.75rem;
 }
@@ -528,7 +528,7 @@ table th {
 .Sleep p:nth-of-type(2),
 .Chores p:nth-of-type(2),
 .Work p:nth-of-type(2),
-.friends p:nth-of-type(2) {
+.Friends p:nth-of-type(2) {
   padding-bottom: 0.75rem
 }
 
@@ -536,7 +536,7 @@ table th {
 .Sleep p:nth-of-type(4),
 .Chores p:nth-of-type(4),
 .Work p:nth-of-type(4),
-.friends p:nth-of-type(4) {
+.Friends p:nth-of-type(4) {
   padding-bottom: 0.75rem
 }
 
