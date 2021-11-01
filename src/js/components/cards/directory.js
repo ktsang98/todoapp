@@ -9,7 +9,7 @@ const directory = function (){
     <ul id="todo" class="todo">
     
     </ul>
-    <button class="ui-button"><a href="/errorPage" class="ui-newPage" data-path="/errorPage">Add Item</a></button>
+    <button class="ui-button"><a href="/errorpage" class="ui-newPage" data-path="/errorpage">Add Item</a></button>
     <footer>
 
     </footer>

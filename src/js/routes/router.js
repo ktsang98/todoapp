@@ -1,12 +1,12 @@
 import home  from "../pages/index";
 import directory from "../pages/directory";
-import notFound from "../pages/notFound";
+import notFound from "../pages/notfound";
 
 
 const routes = {
     "/": home,
     "/directory":directory,
-    "/notFound": notFound
+    "/notfound": notFound
 }
 
 
