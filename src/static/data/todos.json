@@ -1,0 +1,46 @@
+[{
+  "id": "",
+  "category": "School",
+  "title": "finish the pile of assignments i put off",
+  "isComplete": "Completed",
+  "startDate": "Sunday October 31",
+  "startTime": "9:00am",
+  "endDate": "Sunday October 31",
+  "endTime": "9:00am"
+}, {
+  "id": "",
+  "category": "Sleep",
+  "title": "finally get a good nights rest and sleep for longer than 4 hours",
+  "isComplete": "Not Complete",
+  "startDate": "Sunday October 31",
+  "startTime": "9:00am",
+  "endDate": "Sunday October 31",
+  "endTime": "9:00am"
+}, {
+  "id": "",
+  "category": "Work",
+  "title": "go to work every day",
+  "isComplete": "Completed",
+  "startDate": "Sunday October 31",
+  "startTime": "9:00am",
+  "endDate": "Sunday October 31",
+  "endTime": "9:00am"
+}, {
+  "id": "",
+  "category": "Chores",
+  "title": "wash the dishes",
+  "isComplete": "Completed",
+  "startDate": "Sunday October 31",
+  "startTime": "9:00am",
+  "endDate": "Sunday October 31",
+  "endTime": "9:00am"
+}, {
+  "id": "",
+  "category": "Friends",
+  "title": "birthday dinner with friends",
+  "isComplete": "Completed",
+  "startDate": "Sunday October 31",
+  "startTime": "9:00am",
+  "endDate": "Sunday October 31",
+  "endTime": "9:00am"
+}]
